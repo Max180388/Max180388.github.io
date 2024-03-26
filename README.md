@@ -1,2 +1,2 @@
 # Max180388.github.io
-<h1> првет</h1>
+<h1 style="color:red"> првет</h1>
